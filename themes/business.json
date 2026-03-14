@@ -1,0 +1,25 @@
+{
+  "name": "Business",
+  "description": "专业、简洁的商务主题，适合正式场合和商业演示",
+  "colors": {
+    "primary": "#1E40AF",
+    "secondary": "#3B82F6",
+    "accent": "#F59E0B",
+    "sky": "#60A5FA",
+    "text_primary": "#1F2937",
+    "text_secondary": "#4B5563",
+    "text_light": "#6B7280",
+    "bg_light": "#F9FAFB",
+    "bg_pink": "#F3F4F6"
+  },
+  "fonts": {
+    "heading": "Arial",
+    "body": "Arial",
+    "poem": "Times New Roman"
+  },
+  "layout": {
+    "slide_padding": 1.0,
+    "content_gap": 0.5,
+    "card_radius": 0.1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Minimal",
+  "description": "简单、优雅的极简主题，适合注重内容的演示",
+  "colors": {
+    "primary": "#374151",
+    "secondary": "#6B7280",
+    "accent": "#9CA3AF",
+    "sky": "#D1D5DB",
+    "text_primary": "#111827",
+    "text_secondary": "#4B5563",
+    "text_light": "#9CA3AF",
+    "bg_light": "#FFFFFF",
+    "bg_pink": "#F9FAFB"
+  },
+  "fonts": {
+    "heading": "Arial",
+    "body": "Arial",
+    "poem": "Times New Roman"
+  },
+  "layout": {
+    "slide_padding": 1.5,
+    "content_gap": 0.7,
+    "card_radius": 0.05
+  }
+}

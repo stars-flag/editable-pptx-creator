@@ -1,0 +1,25 @@
+{
+  "name": "Spring",
+  "description": "温暖、充满活力的春日主题，适合轻松愉快的演示",
+  "colors": {
+    "primary": "#7CB342",
+    "secondary": "#F48FB1",
+    "accent": "#FFD54F",
+    "sky": "#81D4FA",
+    "text_primary": "#2E7D32",
+    "text_secondary": "#5D4037",
+    "text_light": "#8D6E63",
+    "bg_light": "#E8F5E9",
+    "bg_pink": "#FCE4EC"
+  },
+  "fonts": {
+    "heading": "微软雅黑",
+    "body": "微软雅黑",
+    "poem": "楷体"
+  },
+  "layout": {
+    "slide_padding": 1.0,
+    "content_gap": 0.5,
+    "card_radius": 0.2
+  }
+}

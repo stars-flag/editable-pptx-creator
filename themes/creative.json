@@ -1,0 +1,25 @@
+{
+  "name": "Creative",
+  "description": "大胆、充满活力的创意主题，适合创意行业和年轻化演示",
+  "colors": {
+    "primary": "#8B5CF6",
+    "secondary": "#EC4899",
+    "accent": "#FBBF24",
+    "sky": "#06B6D4",
+    "text_primary": "#111827",
+    "text_secondary": "#374151",
+    "text_light": "#6B7280",
+    "bg_light": "#FEF3C7",
+    "bg_pink": "#FCE7F3"
+  },
+  "fonts": {
+    "heading": "Arial Black",
+    "body": "Arial",
+    "poem": "Georgia"
+  },
+  "layout": {
+    "slide_padding": 1.2,
+    "content_gap": 0.6,
+    "card_radius": 0.3
+  }
+}
