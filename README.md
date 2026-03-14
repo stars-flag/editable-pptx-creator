@@ -1,5 +1,7 @@
 # Editable PPTX Creator
 
+> 基于 [slide-creator](https://github.com/kaisersong/slide-creator) 开发
+
 让 AI Agent 将你的内容转换为可编辑的 PowerPoint 演示文稿。
 
 ## 这是什么
