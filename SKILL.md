@@ -2,7 +2,7 @@
 name: editable-pptx-creator
 description: Generate fully editable PowerPoint presentations from ideas. Complete workflow: plan → generate HTML → export to editable PPTX. Creates native PowerPoint objects (not screenshots) so all text, shapes, colors, and layouts can be edited. Perfect for business presentations, reports, and any scenario requiring post-creation editing.
 version: 1.0.0
-metadata: {"openclaw":{"emoji":"📊","os":["darwin","linux","win32"],"homepage":"https://github.com/codefree/editable-pptx-creator","requires":{"bins":["python3"]},"install":[{"id":"python-pptx","kind":"uv","package":"python-pptx","label":"python-pptx (PPTX creation)"},{"id":"beautifulsoup4","kind":"uv","package":"beautifulsoup4","label":"BeautifulSoup4 (HTML parsing)"},{"id":"Pillow","kind":"uv","package":"Pillow","label":"Pillow (image processing)"}]}}
+metadata: {"openclaw":{"emoji":"📊","os":["darwin","linux","win32"],"homepage":"https://github.com/stars-flag/editable-pptx-creator","requires":{"bins":["python3"]},"install":[{"id":"python-pptx","kind":"uv","package":"python-pptx","label":"python-pptx (PPTX creation)"},{"id":"beautifulsoup4","kind":"uv","package":"beautifulsoup4","label":"BeautifulSoup4 (HTML parsing)"},{"id":"Pillow","kind":"uv","package":"Pillow","label":"Pillow (image processing)"}]}}
 ---
 
 # Editable PPTX Creator
